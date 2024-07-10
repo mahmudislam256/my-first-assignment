@@ -18,17 +18,14 @@ nav {
     justify-content: space-between;
     margin: 0px 200px;
 }
-
 .nav-title {
     font-weight: 600px;
     font-size: 45px;
 }
-
 nav ul {
     display: flex;
     align-items: center;
 }
-
 nav ul li {
     list-style: none;
     margin-right: 51px;
@@ -37,9 +34,7 @@ nav li a {
     text-decoration: none;
     font-size: 20px;
     list-style: none;
-
 }
-
 
 /* button  */
 
@@ -64,12 +59,10 @@ nav li a {
     text-decoration: none;
     margin-left: 350px;
 }
- /* Hover effect */
+ /* button Hover effect */
  .contact-button:hover {
     background-color: #eb0808;
 }
-
-
 
 /* hero section */
 .hero-bg{
@@ -79,21 +72,17 @@ nav li a {
     padding: 0px 221px 45px 221px;
     
 }
-
-
 .hero-title {
     font-weight: bold;
     font-size: 45px;
     text-align: center;
 }
-
 .hero-description{
     color: rgb(13, 19,33);
     padding-bottom: 32px;
     text-align: center;
 
 }
-
 /* images decoration */
 .bg-img-prymary{
     margin: auto;
@@ -105,7 +94,6 @@ nav li a {
     padding-bottom: 12px;
 }
 
-
 /* main section style */
 .secondary-bg{
     background-color: #faf6f6;
@@ -114,7 +102,6 @@ nav li a {
     margin-top: -8px;
     
    }
-
 .third-bg{
     background-color: white;
     margin: 48px 48px 48px 48px;
@@ -131,6 +118,8 @@ nav li a {
     text-align: center;
     
 }
+
+/* section style */
 
 .section-title{
     font-size: 32px;
@@ -150,7 +139,6 @@ nav li a {
     width: 275px;
     padding-top: 50px;
 }
-
 
 /* Skills section style */
 .skill-container{
@@ -180,8 +168,9 @@ nav li a {
     border-radius: 5px;
     margin-bottom: 32px;
     
-    
  }
+
+ /* banner style */
 
 .banner-profile-picture{
     padding-top: 24px;
@@ -266,7 +255,7 @@ nav li a {
 }
 
 
-
+/* input from style */
  input[type="text"]{
     height: 34px;
     border-radius: 5px;
